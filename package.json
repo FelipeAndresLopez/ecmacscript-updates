@@ -1,7 +1,7 @@
 {
   "name": "ecmascript-updates",
   "version": "1.0.0",
-  "description": "Understanding ECMAScript 6, 7, 8, 9 and 10",
+  "description": "Reviewing ECMAScript 6, 7, 8, 9 and 10",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
